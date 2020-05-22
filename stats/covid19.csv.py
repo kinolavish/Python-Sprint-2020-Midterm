@@ -1,4 +1,6 @@
-date	cases	deaths
+DATE	Cases	deaths
+
+
 2020-03-01	88	    3
 2020-03-02	104	    6
 2020-03-03	125	    10
